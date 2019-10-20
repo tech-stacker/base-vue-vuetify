@@ -1,6 +1,8 @@
 # base-vue-vuetify
 This base tech stack was built with `Vue` and `Vuetify`.
 
+Check out the [build documentation](./BUILD.md) to learn how this base stack was created.
+
 ## Additional Information
 
 ### Welcome to Tech Stacker
