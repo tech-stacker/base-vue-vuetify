@@ -1,34 +1,8 @@
 # base-vue-vuetify
+This base tech stack was built with `Vue` and `Vuetify`.
 
-## Project setup
-```
-npm install
-```
+## Additional Information
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Welcome to Tech Stacker
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To learn more about the Tech Stacker project and how it can help you kickoff a fully functional real-life application quickly, check out the [Tech Stacker](http://onlinebydesign.org) website.
