@@ -1,7 +1,7 @@
 # base-vue-vuetify
 This base tech stack was built with [Vue](https://vuejs.org) and [Vuetify](https://vuetifyjs.com).
 
-Check out the [build documentation](./BUILD.md) to learn how this base stack was created.
+Check out the [build documentation](https://github.com/tech-stacker/base-vue-vuetify/wiki/Build) to learn how this base stack was created.
 
 ## Project setup
 ```
@@ -34,7 +34,7 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config).
 
 ## Additional Information
 
