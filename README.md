@@ -3,6 +3,39 @@ This base tech stack was built with [Vue](https://vuejs.org) and [Vuetify](https
 
 Check out the [build documentation](./BUILD.md) to learn how this base stack was created.
 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Run your end-to-end tests
+```
+npm run test:e2e
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 ## Additional Information
 
 ### Welcome to Tech Stacker
